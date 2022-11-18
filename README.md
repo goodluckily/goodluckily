@@ -19,7 +19,7 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-## 🌱[Snake](https://github.com/goodluckily)
+## 🐍[Snake](https://github.com/goodluckily)
 > code submission display
  <div align="center"><img src="https://github.com/goodluckily/goodluckily/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
