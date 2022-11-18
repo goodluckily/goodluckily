@@ -7,7 +7,7 @@
 
 
 
-## 🌠[Coding Time](https://wakatime.com/@Younger)
+## 🌠[Coding Time](https://github.com/goodluckily)
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=goodluckily&theme=calm&show_icons=true) -->
@@ -19,13 +19,13 @@
 </div>
 
 <!-- 贪吃蛇代码贡献图 -->
-## 🌱[Snake]()
+## 🌱[Snake](https://github.com/goodluckily)
 > code submission display
  <div align="center"><img src="https://github.com/goodluckily/goodluckily/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
 
 <!-- 贪吃蛇代码贡献图 -->
-## ⚡[Visitor Count]()
+## ⚡[Visitor Count](https://github.com/goodluckily)
     
   ![Visitor Count](https://profile-counter.glitch.me/goodluckily/count.svg)
 
