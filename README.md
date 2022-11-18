@@ -1,7 +1,11 @@
 ### Hi there 👋
 <!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
+<div align="center" >
+    <img  align="center" order-radius="100px" width="480" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
 <br>
+
+
 
 ## 🌠[Coding Time](https://wakatime.com/@Younger)
 > the projects I'm working on
