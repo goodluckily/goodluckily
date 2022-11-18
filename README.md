@@ -18,6 +18,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goodluckily&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
+<!-- 贪吃蛇代码贡献图 -->
+## 🌱[Snake]()
+> code submission display
+<!-- <div align="center"><img src="https://github.com/goodluckily/goodluckily/blob/main/assets/github-contribution-grid-snake.gif" /></div -->
+
+
 
 ![Visitor Count](https://profile-counter.glitch.me/goodluckily/count.svg)
 
