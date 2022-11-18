@@ -3,7 +3,7 @@
 <div align="center" >
     <img  align="center" order-radius="100px" width="480" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </div>
-<br>
+<br/>
 
 
 
@@ -21,11 +21,15 @@
 <!-- 贪吃蛇代码贡献图 -->
 ## 🌱[Snake]()
 > code submission display
-<!-- <div align="center"><img src="https://github.com/goodluckily/goodluckily/blob/main/assets/github-contribution-grid-snake.gif" /></div -->
+ <div align="center"><img src="https://github.com/goodluckily/goodluckily/blob/main/assets/github-contribution-grid-snake.svg" /></div>
 
 
+<!-- 贪吃蛇代码贡献图 -->
+## ⚡[Visitor Count]()
+    
+  ![Visitor Count](https://profile-counter.glitch.me/goodluckily/count.svg)
 
-![Visitor Count](https://profile-counter.glitch.me/goodluckily/count.svg)
+<br/>
 
 💪 正在学习: 
 
