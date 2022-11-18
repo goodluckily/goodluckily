@@ -34,13 +34,17 @@
 💪 正在学习: 
 
 &emsp;&emsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![MAUI](https://img.shields.io/badge/.Net%20Core-MAUI-blue)
+![Blazor](https://img.shields.io/badge/.Net%20Core-Blazor-blue)
+
 
 🧠 计划学习:
 
 &emsp;&emsp;
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 
 🧰 常用的工具:
 
@@ -52,6 +56,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-blue)
+![Microsoft SQL Server Management Studio 18](https://img.shields.io/badge/-Microsoft%20SQL%20Server%20Management%20Studio%2018-orange)
 
 <!--
 **goodluckily/goodluckily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
